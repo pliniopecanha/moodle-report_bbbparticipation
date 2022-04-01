@@ -28,4 +28,4 @@ $plugin->version   = 2021121401;
 $plugin->requires  = 2020061501;
 $plugin->component = 'report_bbbparticipation';
 $plugin->maturity = MATURITY_STABLE;
-$plugin->dependencies = array('mod_bigbluebuttonbn' => 2021030500);
+$plugin->dependencies = array('mod_bigbluebuttonbn' => 2019101011);
